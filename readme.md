@@ -17,3 +17,4 @@ https://lyricfinder-raghav24.netlify.app/
  5) Used Bootstrap to style the cards and display in components,Moment to modify date in Lyrics.
  6) Context Api which keeps the state(tracks) and provider which provides track data to consumer class components.
  7) The WebApp displays the Top 10 Global Tracks. On Searching for a Song,it displays the top 10 results and on clicking the specific track,shows the lyrincs on a new page along with release date,genre and album name.
+8)  'npm run build' and then hosted on Netlify
